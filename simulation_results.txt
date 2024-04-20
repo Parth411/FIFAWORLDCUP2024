@@ -1,0 +1,596 @@
+--- Group Stage Results ---
+Argentina:
+  Argentina vs Korea Republic (3-1) - Group Stage
+    BANEGA Ever (26')
+    CABALLERO Wilfredo (22')
+    LO CELSO Giovani (41')
+    KI Sungyueng (77')
+  Argentina vs Belgium (4-1) - Group Stage
+    BANEGA Ever (8')
+    LO CELSO Giovani (28')
+    BIGLIA Lucas (26')
+    MEZA Maximiliano (53')
+    DE BRUYNE Kevin (17')
+  Argentina vs Switzerland (4-1) - Group Stage
+    CABALLERO Wilfredo (38')
+    SALVIO Eduardo (23')
+    FAZIO Federico (50')
+    AGUERO Sergio (9')
+    RODRIGUEZ Ricardo (60')
+Australia:
+  Australia vs Nigeria (1-3) - Group Stage
+    JEDINAK Mile (20')
+    SHEHU Abdullahi (48')
+    EZENWA Ikechukwu (8')
+    ETEBO Oghenekaro (13')
+  Australia vs Saudi Arabia (0-1) - Group Stage
+    YASIR ALSHAHRANI (67')
+  Australia vs IR Iran (1-0) - Group Stage
+    KRUSE Robbie (69')
+Belgium:
+  Argentina vs Belgium (4-1) - Group Stage
+    BANEGA Ever (8')
+    LO CELSO Giovani (28')
+    BIGLIA Lucas (26')
+    MEZA Maximiliano (53')
+    DE BRUYNE Kevin (17')
+  Korea Republic vs Belgium (4-0) - Group Stage
+    KIM Shinwook (25')
+    LEE Yong (48')
+    KI Sungyueng (47')
+    KI Sungyueng (63')
+  Belgium vs Switzerland (4-0) - Group Stage
+    WITSEL Axel (70')
+    COURTOIS Thibaut (76')
+    CASTEELS Koen (17')
+    JANUZAJ Adnan (19')
+Brazil:
+  Brazil vs Senegal (3-3) - Group Stage
+    WILLIAN (18')
+    DOUGLAS COSTA (81')
+    RENATO AUGUSTO (37')
+    MANE Sadio (19')
+    DIALLO Abdoulaye (23')
+    DIOUF Mame (58')
+  Brazil vs Poland (4-4) - Group Stage
+    NEYMAR (79')
+    DANILO (86')
+    TAISON (60')
+    MIRANDA (48')
+    BERESZYNSKI Bartosz (65')
+    MILIK Arkadiusz (16')
+    CIONEK Thiago (86')
+    MILIK Arkadiusz (61')
+  Brazil vs Uruguay (4-1) - Group Stage
+    CASSIO (22')
+    CASSIO (69')
+    WILLIAN (65')
+    ALISSON (18')
+    NANDEZ Nahitan (24')
+Colombia:
+  Croatia vs Colombia (3-3) - Group Stage
+    VIDA Domagoj (53')
+    MODRIC Luka (23')
+    KOVACIC Mateo (70')
+    BACCA Carlos (60')
+    AGUILAR Abel (21')
+    AGUILAR Abel (3')
+  Colombia vs Germany (4-1) - Group Stage
+    CUADRADO Juan (29')
+    CUADRADO Juan (18')
+    SANCHEZ Davinson (55')
+    CUADRADO Juan (78')
+    SUELE Niklas (14')
+  Colombia vs England (3-4) - Group Stage
+    SANCHEZ Carlos (17')
+    ZAPATA Cristian (80')
+    SANCHEZ Carlos (16')
+    TRIPPIER Kieran (77')
+    PICKFORD Jordan (77')
+    DELPH Fabian (18')
+    MAGUIRE Harry (23')
+Costa Rica:
+  Russia vs Costa Rica (1-2) - Group Stage
+    SAMEDOV Alexander (24')
+    PEMBERTON Patrick (79')
+    OVIEDO Bryan (10')
+  Costa Rica vs Tunisia (0-0) - Group Stage
+  Costa Rica vs Morocco (0-2) - Group Stage
+    BELHANDA Younes (28')
+    HAKIMI Achraf (75')
+Croatia:
+  Croatia vs Colombia (3-3) - Group Stage
+    VIDA Domagoj (53')
+    MODRIC Luka (23')
+    KOVACIC Mateo (70')
+    BACCA Carlos (60')
+    AGUILAR Abel (21')
+    AGUILAR Abel (3')
+  Croatia vs Germany (2-3) - Group Stage
+    STRINIC Ivan (70')
+    PIVARIC Josip (13')
+    WERNER Timo (7')
+    RUEDIGER Antonio (3')
+    GOMEZ Mario (46')
+  Croatia vs England (0-1) - Group Stage
+    WELBECK Danny (88')
+Denmark:
+  Denmark vs Egypt (0-4) - Group Stage
+    MOHAMED ELNENY (24')
+    TREZEGUET (90')
+    MOHAMED ELNENY (49')
+    SHIKABALA (62')
+  Denmark vs Mexico (4-3) - Group Stage
+    CORNELIUS Andreas (26')
+    SISTO Pione (3')
+    LERAGER Lukas (82')
+    FISCHER Viktor (44')
+    HERRERA Hector (57')
+    VELA Carlos (12')
+    LAYUN Miguel (28')
+  Denmark vs Spain (4-3) - Group Stage
+    VESTERGAARD Jannik (87')
+    FISCHER Viktor (90')
+    JORGENSEN Mathias (55')
+    KVIST William (58')
+    SAUL (41')
+    SILVA David (71')
+    ODRIOZOLA Alvaro (29')
+Egypt:
+  Denmark vs Egypt (0-4) - Group Stage
+    MOHAMED ELNENY (24')
+    TREZEGUET (90')
+    MOHAMED ELNENY (49')
+    SHIKABALA (62')
+  Egypt vs Mexico (1-3) - Group Stage
+    SAM MORSY (46')
+    HERNANDEZ Javier (23')
+    FABIAN Marco (25')
+    FABIAN Marco (14')
+  Egypt vs Spain (0-2) - Group Stage
+    ISCO (57')
+    DE GEA David (75')
+England:
+  Croatia vs England (0-1) - Group Stage
+    WELBECK Danny (88')
+  Colombia vs England (3-4) - Group Stage
+    SANCHEZ Carlos (17')
+    ZAPATA Cristian (80')
+    SANCHEZ Carlos (16')
+    TRIPPIER Kieran (77')
+    PICKFORD Jordan (77')
+    DELPH Fabian (18')
+    MAGUIRE Harry (23')
+  Germany vs England (3-3) - Group Stage
+    HECTOR Jonas (34')
+    KROOS Toni (68')
+    MUELLER Thomas (17')
+    POPE Nick (45')
+    LOFTUS-CHEEK Ruben (19')
+    BUTLAND Jack (22')
+France:
+  Portugal vs France (2-0) - Group Stage
+    JOSE FONTE (7')
+    BERNARDO SILVA (59')
+  Serbia vs France (1-1) - Group Stage
+    VELJKOVIC Milos (76')
+    UMTITI Samuel (52')
+  France vs Japan (2-4) - Group Stage
+    PAVARD Benjamin (50')
+    KANTE Ngolo (41')
+    SHIBASAKI Gaku (90')
+    KAWASHIMA Eiji (73')
+    SAKAI Hiroki (17')
+    INUI Takashi (4')
+Germany:
+  Croatia vs Germany (2-3) - Group Stage
+    STRINIC Ivan (70')
+    PIVARIC Josip (13')
+    WERNER Timo (7')
+    RUEDIGER Antonio (3')
+    GOMEZ Mario (46')
+  Colombia vs Germany (4-1) - Group Stage
+    CUADRADO Juan (29')
+    CUADRADO Juan (18')
+    SANCHEZ Davinson (55')
+    CUADRADO Juan (78')
+    SUELE Niklas (14')
+  Germany vs England (3-3) - Group Stage
+    HECTOR Jonas (34')
+    KROOS Toni (68')
+    MUELLER Thomas (17')
+    POPE Nick (45')
+    LOFTUS-CHEEK Ruben (19')
+    BUTLAND Jack (22')
+IR Iran:
+  Australia vs IR Iran (1-0) - Group Stage
+    KRUSE Robbie (69')
+  Nigeria vs IR Iran (3-1) - Group Stage
+    UZOHO Francis (63')
+    MOSES Victor (8')
+    NWANKWO Simeon (53')
+    ABEDZADEH Amir (33')
+  Saudi Arabia vs IR Iran (3-0) - Group Stage
+    MOHAMMED ALSAHLAWI (81')
+    OMAR OTHMAN (37')
+    HUSSAIN ALMOQAHWI (47')
+Iceland:
+  Peru vs Iceland (4-2) - Group Stage
+    AQUINO Pedro (75')
+    CARVALLO Jose (7')
+    FLORES Edison (73')
+    FLORES Edison (32')
+    BJARNASON Birkir (69')
+    RUNARSSON Runar (36')
+  Iceland vs Sweden (0-0) - Group Stage
+  Iceland vs Panama (0-2) - Group Stage
+    ARROYO Abdiel (47')
+    MURILLO Michael (76')
+Japan:
+  Portugal vs Japan (3-1) - Group Stage
+    BERNARDO SILVA (87')
+    GONCALO GUEDES (25')
+    JOSE FONTE (8')
+    HASEBE Makoto (51')
+  Serbia vs Japan (0-3) - Group Stage
+    SHOJI Gen (56')
+    SAKAI Hiroki (16')
+    OSHIMA Ryota (90')
+  France vs Japan (2-4) - Group Stage
+    PAVARD Benjamin (50')
+    KANTE Ngolo (41')
+    SHIBASAKI Gaku (90')
+    KAWASHIMA Eiji (73')
+    SAKAI Hiroki (17')
+    INUI Takashi (4')
+Korea Republic:
+  Argentina vs Korea Republic (3-1) - Group Stage
+    BANEGA Ever (26')
+    CABALLERO Wilfredo (22')
+    LO CELSO Giovani (41')
+    KI Sungyueng (77')
+  Korea Republic vs Belgium (4-0) - Group Stage
+    KIM Shinwook (25')
+    LEE Yong (48')
+    KI Sungyueng (47')
+    KI Sungyueng (63')
+  Korea Republic vs Switzerland (1-4) - Group Stage
+    KIM Seunggyu (24')
+    DRMIC Josip (11')
+    RODRIGUEZ Ricardo (28')
+    SCHAER Fabian (68')
+    ZAKARIA Denis (31')
+Mexico:
+  Denmark vs Mexico (4-3) - Group Stage
+    CORNELIUS Andreas (26')
+    SISTO Pione (3')
+    LERAGER Lukas (82')
+    FISCHER Viktor (44')
+    HERRERA Hector (57')
+    VELA Carlos (12')
+    LAYUN Miguel (28')
+  Egypt vs Mexico (1-3) - Group Stage
+    SAM MORSY (46')
+    HERNANDEZ Javier (23')
+    FABIAN Marco (25')
+    FABIAN Marco (14')
+  Mexico vs Spain (2-4) - Group Stage
+    HERRERA Hector (44')
+    AQUINO Javier (76')
+    ALBA Jordi (51')
+    RAMOS Sergio (84')
+    DE GEA David (35')
+    VAZQUEZ Lucas (31')
+Morocco:
+  Russia vs Morocco (2-4) - Group Stage
+    KUDRIASHOV Fedor (21')
+    LUNEV Andrei (23')
+    BOUSSOUFA Mbark (20')
+    SAISS Romain (86')
+    FAJR Faycal (31')
+    BOUTAIB Khalid (51')
+  Costa Rica vs Morocco (0-2) - Group Stage
+    BELHANDA Younes (28')
+    HAKIMI Achraf (75')
+  Tunisia vs Morocco (2-0) - Group Stage
+    BEN ALOUANE Yohan (8')
+    BEN YOUSSEF Fakhreddine (70')
+Nigeria:
+  Australia vs Nigeria (1-3) - Group Stage
+    JEDINAK Mile (20')
+    SHEHU Abdullahi (48')
+    EZENWA Ikechukwu (8')
+    ETEBO Oghenekaro (13')
+  Nigeria vs Saudi Arabia (4-4) - Group Stage
+    BALOGUN Leon (45')
+    UZOHO Francis (8')
+    EKONG William (64')
+    OMERUO Kenneth (8')
+    ABDULLAH ALMUAIOUF (68')
+    TAISEER ALJASSAM (22')
+    MOHAMED KANNO (55')
+    MOHAMMED ALOWAIS (59')
+  Nigeria vs IR Iran (3-1) - Group Stage
+    UZOHO Francis (63')
+    MOSES Victor (8')
+    NWANKWO Simeon (53')
+    ABEDZADEH Amir (33')
+Panama:
+  Peru vs Panama (4-3) - Group Stage
+    YOTUN Yoshimar (41')
+    HURTADO Paolo (81')
+    YOTUN Yoshimar (76')
+    YOTUN Yoshimar (63')
+    BARCENAS Edgar (75')
+    ARROYO Abdiel (83')
+    DIAZ Ismael (69')
+  Iceland vs Panama (0-2) - Group Stage
+    ARROYO Abdiel (47')
+    MURILLO Michael (76')
+  Sweden vs Panama (1-2) - Group Stage
+    HILJEMARK Oscar (86')
+    QUINTERO Alberto (37')
+    DAVIS Eric (80')
+Peru:
+  Peru vs Iceland (4-2) - Group Stage
+    AQUINO Pedro (75')
+    CARVALLO Jose (7')
+    FLORES Edison (73')
+    FLORES Edison (32')
+    BJARNASON Birkir (69')
+    RUNARSSON Runar (36')
+  Peru vs Sweden (4-3) - Group Stage
+    RAMOS Christian (18')
+    CARVALLO Jose (37')
+    RODRIGUEZ Alberto (71')
+    YOTUN Yoshimar (19')
+    THELIN Isaac Kiese (23')
+    BERG Marcus (24')
+    LINDELOF Victor (33')
+  Peru vs Panama (4-3) - Group Stage
+    YOTUN Yoshimar (41')
+    HURTADO Paolo (81')
+    YOTUN Yoshimar (76')
+    YOTUN Yoshimar (63')
+    BARCENAS Edgar (75')
+    ARROYO Abdiel (83')
+    DIAZ Ismael (69')
+Poland:
+  Brazil vs Poland (4-4) - Group Stage
+    NEYMAR (79')
+    DANILO (86')
+    TAISON (60')
+    MIRANDA (48')
+    BERESZYNSKI Bartosz (65')
+    MILIK Arkadiusz (16')
+    CIONEK Thiago (86')
+    MILIK Arkadiusz (61')
+  Senegal vs Poland (4-2) - Group Stage
+    SOW Moussa (39')
+    NIANG Mbaye (77')
+    GOMIS Alfred (41')
+    GASSAMA Lamine (84')
+    PESZKO Slawomir (73')
+    MILIK Arkadiusz (26')
+  Poland vs Uruguay (3-0) - Group Stage
+    KURZAWA Rafal (58')
+    SZCZESNY Wojciech (70')
+    PAZDAN Michal (51')
+Portugal:
+  Portugal vs Serbia (3-2) - Group Stage
+    JOAO MARIO (25')
+    RUBEN DIAS (33')
+    ANTHONY LOPES (29')
+    DMITROVIC Marko (74')
+    RAJKOVIC Predrag (75')
+  Portugal vs France (2-0) - Group Stage
+    JOSE FONTE (7')
+    BERNARDO SILVA (59')
+  Portugal vs Japan (3-1) - Group Stage
+    BERNARDO SILVA (87')
+    GONCALO GUEDES (25')
+    JOSE FONTE (8')
+    HASEBE Makoto (51')
+Russia:
+  Russia vs Costa Rica (1-2) - Group Stage
+    SAMEDOV Alexander (24')
+    PEMBERTON Patrick (79')
+    OVIEDO Bryan (10')
+  Russia vs Tunisia (3-2) - Group Stage
+    KUZIAEV Daler (79')
+    MIRANCHUK Anton (28')
+    GOLOVIN Aleksandr (67')
+    KHALIL Ahmed (33')
+    BEN AMOR Mohamed (18')
+  Russia vs Morocco (2-4) - Group Stage
+    KUDRIASHOV Fedor (21')
+    LUNEV Andrei (23')
+    BOUSSOUFA Mbark (20')
+    SAISS Romain (86')
+    FAJR Faycal (31')
+    BOUTAIB Khalid (51')
+Saudi Arabia:
+  Australia vs Saudi Arabia (0-1) - Group Stage
+    YASIR ALSHAHRANI (67')
+  Nigeria vs Saudi Arabia (4-4) - Group Stage
+    BALOGUN Leon (45')
+    UZOHO Francis (8')
+    EKONG William (64')
+    OMERUO Kenneth (8')
+    ABDULLAH ALMUAIOUF (68')
+    TAISEER ALJASSAM (22')
+    MOHAMED KANNO (55')
+    MOHAMMED ALOWAIS (59')
+  Saudi Arabia vs IR Iran (3-0) - Group Stage
+    MOHAMMED ALSAHLAWI (81')
+    OMAR OTHMAN (37')
+    HUSSAIN ALMOQAHWI (47')
+Senegal:
+  Brazil vs Senegal (3-3) - Group Stage
+    WILLIAN (18')
+    DOUGLAS COSTA (81')
+    RENATO AUGUSTO (37')
+    MANE Sadio (19')
+    DIALLO Abdoulaye (23')
+    DIOUF Mame (58')
+  Senegal vs Poland (4-2) - Group Stage
+    SOW Moussa (39')
+    NIANG Mbaye (77')
+    GOMIS Alfred (41')
+    GASSAMA Lamine (84')
+    PESZKO Slawomir (73')
+    MILIK Arkadiusz (26')
+  Senegal vs Uruguay (0-3) - Group Stage
+    GODIN Diego (50')
+    CAMPANA Martin (44')
+    CAVANI Edinson (19')
+Serbia:
+  Portugal vs Serbia (3-2) - Group Stage
+    JOAO MARIO (25')
+    RUBEN DIAS (33')
+    ANTHONY LOPES (29')
+    DMITROVIC Marko (74')
+    RAJKOVIC Predrag (75')
+  Serbia vs France (1-1) - Group Stage
+    VELJKOVIC Milos (76')
+    UMTITI Samuel (52')
+  Serbia vs Japan (0-3) - Group Stage
+    SHOJI Gen (56')
+    SAKAI Hiroki (16')
+    OSHIMA Ryota (90')
+Spain:
+  Denmark vs Spain (4-3) - Group Stage
+    VESTERGAARD Jannik (87')
+    FISCHER Viktor (90')
+    JORGENSEN Mathias (55')
+    KVIST William (58')
+    SAUL (41')
+    SILVA David (71')
+    ODRIOZOLA Alvaro (29')
+  Egypt vs Spain (0-2) - Group Stage
+    ISCO (57')
+    DE GEA David (75')
+  Mexico vs Spain (2-4) - Group Stage
+    HERRERA Hector (44')
+    AQUINO Javier (76')
+    ALBA Jordi (51')
+    RAMOS Sergio (84')
+    DE GEA David (35')
+    VAZQUEZ Lucas (31')
+Sweden:
+  Peru vs Sweden (4-3) - Group Stage
+    RAMOS Christian (18')
+    CARVALLO Jose (37')
+    RODRIGUEZ Alberto (71')
+    YOTUN Yoshimar (19')
+    THELIN Isaac Kiese (23')
+    BERG Marcus (24')
+    LINDELOF Victor (33')
+  Iceland vs Sweden (0-0) - Group Stage
+  Sweden vs Panama (1-2) - Group Stage
+    HILJEMARK Oscar (86')
+    QUINTERO Alberto (37')
+    DAVIS Eric (80')
+Switzerland:
+  Argentina vs Switzerland (4-1) - Group Stage
+    CABALLERO Wilfredo (38')
+    SALVIO Eduardo (23')
+    FAZIO Federico (50')
+    AGUERO Sergio (9')
+    RODRIGUEZ Ricardo (60')
+  Korea Republic vs Switzerland (1-4) - Group Stage
+    KIM Seunggyu (24')
+    DRMIC Josip (11')
+    RODRIGUEZ Ricardo (28')
+    SCHAER Fabian (68')
+    ZAKARIA Denis (31')
+  Belgium vs Switzerland (4-0) - Group Stage
+    WITSEL Axel (70')
+    COURTOIS Thibaut (76')
+    CASTEELS Koen (17')
+    JANUZAJ Adnan (19')
+Tunisia:
+  Russia vs Tunisia (3-2) - Group Stage
+    KUZIAEV Daler (79')
+    MIRANCHUK Anton (28')
+    GOLOVIN Aleksandr (67')
+    KHALIL Ahmed (33')
+    BEN AMOR Mohamed (18')
+  Costa Rica vs Tunisia (0-0) - Group Stage
+  Tunisia vs Morocco (2-0) - Group Stage
+    BEN ALOUANE Yohan (8')
+    BEN YOUSSEF Fakhreddine (70')
+Uruguay:
+  Brazil vs Uruguay (4-1) - Group Stage
+    CASSIO (22')
+    CASSIO (69')
+    WILLIAN (65')
+    ALISSON (18')
+    NANDEZ Nahitan (24')
+  Senegal vs Uruguay (0-3) - Group Stage
+    GODIN Diego (50')
+    CAMPANA Martin (44')
+    CAVANI Edinson (19')
+  Poland vs Uruguay (3-0) - Group Stage
+    KURZAWA Rafal (58')
+    SZCZESNY Wojciech (70')
+    PAZDAN Michal (51')
+
+--- Knockout Stage Results ---
+Australia vs Costa Rica (3-2) - Semifinal
+  ARZANI Daniel (14')
+  MEREDITH James (22')
+  JURIC Tomi (36')
+  CALVO Francisco (23')
+  BOLANOS Christian (53')
+Nigeria vs Russia (0-0) - Semifinal
+  Penalty shootout:
+    Nigeria - Russia (0-1)
+England vs Tunisia (1-2) - Semifinal
+  RASHFORD Marcus (51')
+  KHALIL Ahmed (54')
+  BADRI Anice (42')
+Saudi Arabia vs Japan (0-1) - Semifinal
+  MUTO Yoshinori (64')
+Germany vs Morocco (2-0) - Semifinal
+  KHEDIRA Sami (40')
+  PLATTENHARDT Marvin (27')
+IR Iran vs France (4-4) - Semifinal
+  DEJAGAH Ashkan (19')
+  GHODDOS  Saman (78')
+  TORABI Mehdi (40')
+  HOSSEINI Majid (9')
+  KIMPEMBE Presnel (82')
+  KIMPEMBE Presnel (77')
+  TOLISSO Corentin (89')
+  LLORIS Hugo (63')
+  Penalty shootout:
+    IR Iran - France (3-3)
+    IR Iran - France (3-1)
+Colombia vs Croatia (3-3) - Semifinal
+  MURIEL Luis (2')
+  LERMA Jefferson (5')
+  IZQUIERDO Jose (29')
+  REBIC Ante (63')
+  BROZOVIC Marcelo (63')
+  KALINIC Nikola (12')
+  Penalty shootout:
+    Colombia - Croatia (3-1)
+Portugal vs Serbia (0-1) - Semifinal
+  SPAJIC Uros (75')
+Australia vs Costa Rica (4-0) - Final
+  MOOY Aaron (13')
+  PETRATOS Dimitrios (44')
+  DEGENEK Milos (46')
+  JEDINAK Mile (75')
+Croatia vs Serbia (3-1) - Third-place Playoff
+  RAKITIC Ivan (59')
+  KRAMARIC Andrej (34')
+  PIVARIC Josip (83')
+  TOSIC Dusko (79')
+
+--- Final Standings ---
+     Gold:           Australia
+   Silver:          Costa Rica
+   Bronze:             Croatia
+Top Scorer:      YOTUN Yoshimar

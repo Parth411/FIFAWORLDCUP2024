@@ -1,0 +1,123 @@
+# Soccer World Cup Simulation
+
+## Description
+This project simulates the FIFA World Cup tournament. It includes the random distribution of teams into eight groups of four teams each, simulation of both the group stage and the knockout stage of the tournament, and random generation of goals during matches.
+
+## Requirements
+
+In this project, you are required to develop a simulation of the FIFA World Cup. In this World Cup, there are 32 teams which are organized into eight groups of four teams each (group A, B, C, D, E, F, G and H). In each simulation, the distribution of teams into groups must be done randomly. The tournament has two phases: the group phase and the knockout phase.
+
+In the group stage, the teams in each group play in a round robin. This means that each team plays a match with everyone else in their group. Teams get three points for each game won and one point for each game tied. At the end of the group stage, the two teams with the highest points in each group advance to the knockout stage.
+
+The knockout phase consists of: round of 16, quarterfinals, semifinals, a third place defining match, and the final. In the round of 16, the best team in group A plays the second-place team in group B, and vice versa. The same for groups C and D, E and F, and so on.
+
+In the knockout phase, the team that wins a match advances to the next round and the team that loses is eliminated. In the event of a tie, a penalty shootout is played to determine the winner.
+
+Each team has a squad of 23 players, and these can be: goalkeeper (gk), defender (df), midfielder (cf) or forward (fw).
+
+In each match, whether in the group stage or the knockout stage, goals must be generated randomly. For each goal it is necessary to record the scorer and the minute of the game in which the goal was scored. The scorer must be chosen randomly among the forward players (FW) of a team. The minute of the game that corresponds to the goal is also decided randomly.
+
+Input data
+For the project, an input file "fifa.csv" is provided that contains the player roster for each of the 32 teams. The file is in text format with values separated by commas and consists of the following columns:
+
+Team: The name of the team (country).
+Player Number: The player's number within the team.
+Position: the position played by the footballer, which can be goalkeeper (gk), defense (df), midfield (cf) or forward (fw).
+Name: The name of the player.
+Short Name: The name that appears on the player's jersey.
+Project requirements
+The program must meet the following requirements:
+
+The eight groups must be defined by selecting the teams randomly.
+Both the group stage and the knockout stage must be simulated.
+Group stage matches must be played in round robin. The result of each match must be shown as well as the group classification board at the end of this phase. The group leaderboard should show for each team: games won, games tied, games lost and score. On this board the teams must be printed ordered according to their score from highest to lowest.
+In each match, goals are generated randomly indicating the scorer and the minute of play. The scorer must be a forward (FW).
+The knockout phase must be simulated including: round of 16, quarterfinals, semifinals, third place defining match and final.
+In the round of 16, the teams must be divided according to the rule explained in the introduction. That is, the best team from group A with the second from group B and vice versa, the same for groups C and D, and so on.
+The result of each match must be shown, which must include: the final score and the list of goals for each team, including the scorer and the minute of play. If there was a penalty shootout, the result of this shootout must also be shown. Remember that there are no penalties in the group stage.
+At the end of the cup, you must print which team came in first place (Gold), second place (Silver) and third place (Bronze). Additionally, it must be shown which player scored the most goals in the championship.
+Once a cup simulation is finished, the user will have the option to save it to a file to be able to load it later.
+Within the program, the user will have the option to run a new simulation or load an existing simulation to view its results.
+Implementation details
+The program must be implemented in the C++ programming language. You must include within your project a README file that explains how to compile and run your program.
+
+### Input Data
+The input data for the project is provided in the `fifa.csv` file. This file contains the player roster for each of the 32 teams participating in the World Cup. The file is in text format with values separated by commas and consists of the following columns:
+- Team: The name of the team (country).
+- Player Number: The player's number within the team.
+- Position: The position played by the footballer, which can be goalkeeper (gk), defender (df), midfielder (cf), or forward (fw).
+- Name: The name of the player.
+- Short Name: The name that appears on the player's jersey.
+
+### Program Requirements
+The program must meet the following requirements:
+
+1. Random Distribution of Teams into Groups: The code randomly distributes the 32 teams into eight groups of four teams each (group A, B, C, D, E, F, G, and H).
+2. Simulation of Group Stage and Knockout Stage: The code simulates both the group stage and the knockout stage of the tournament.
+3. Group Stage Matches in Round Robin: During the group stage, each team plays a match with every other team in their group, adhering to the round-robin format.
+4. Random Generation of Goals: Goals are randomly generated for each match, and the scorer is chosen randomly from the forward players (FW) of each team.
+5. Output Results: At the end of the tournament, the program should print:
+   - Group stage match results with goals and minutes.
+   - Group standings showing points, wins, draws, and losses for each team.
+   - Knockout stage match results with goals and minutes.
+   - Final standings: Gold, Silver, Bronze teams, and the top scorer.
+
+## Execution Instructions
+
+### FIFA World Cup Simulator
+This program simulates a FIFA World Cup tournament where teams compete against each other. It generates match results, tracks team standings, and saves the simulation results to a file.
+
+#### Features
+- Simulates group stage matches followed by knockout stage matches.
+- Loads teams and player information from a CSV file.
+- Randomly selects goal scorers based on player positions.
+- Saves simulation results including group stage and knockout stage results.
+
+#### Dependencies
+- C++11 or later
+- Standard Template Library (STL)
+- fstream for file operations
+- chrono for seeding random number generator
+
+#### Usage
+1. **Compilation**: Compile the program using a C++ compiler. For example:
+g++ -o worldcup_simulation main.cpp
+
+2. **Execution**: Run the compiled program. You will be presented with a menu to choose options.
+./worldcup_simulation
+
+3. **Menu Options**:
+- **1. Simulate World Cup**: Load teams from "fifa.csv", simulate the tournament, and save results to "simulation_results.txt".
+- **2. See Results**: Display simulation results from "simulation_results.txt".
+- **3. Exit**: Exit the program.
+
+#### Input Data Format (`fifa.csv`)
+The input file should be a CSV (Comma-Separated Values) file containing team and player information. Each line represents a player with the following fields:
+
+- Team Name
+- Player Number
+- Player Position (e.g., GK for Goalkeeper, DF for Defender, MF for Midfielder, FW for Forward)
+- Player Name
+- Player Short Name
+
+Example:
+Brazil,10,FW,Neymar Jr.,Neymar
+Germany,9,FW,Thomas Müller,Müller
+
+- Only FW can score goal.
+
+#### Output Format (`simulation_results.txt`)
+The simulation results are saved in "simulation_results.txt". The file contains group stage results, knockout stage results, and final standings. Here's a summary of the sections:
+
+- **Group Stage Results**: Lists matches played in the group stage along with goals scored by each player.
+- **Knockout Stage Results**: Displays knockout stage results (currently not implemented).
+- **Final Standings**: Shows the top teams, the top scorer, and other tournament awards (currently not implemented).
+
+## Additional Notes
+- This program was written and compiled using Visual Studio Code.
+- The folder "FIFA_WP_FIFA_WorldCup_Simulator_ver1_0_0" contains the README and the code.
+- To extract the contents of the folder from the provided "FIFA_WP_FIFA_WorldCup_Simulator_ver1_0_0.tar.gz" file, use the following command:
+
+tar -xvzf FIFA_WP_FIFA_WorldCup_Simulator_ver1_0_0.tar.gz
+
+- Ensure you have a C++ compiler installed on your system to compile and execute the program.
